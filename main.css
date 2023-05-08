@@ -1,0 +1,41 @@
+/*? ---ESTILOS GLOBALES--- */
+
+/** RESET ESTILOS */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/** CONTENEDOR PRINCIPAL  */
+main {
+  height: 100vh;
+  width: 100vw;
+}
+
+/** ESTILOS DEL BODY  */
+
+/*? ---ESTILOS DE AYUDA--- */
+.cnt-help {
+  border: solid rgb(7, 255, 7) 4px;
+}
+
+.cnt-help1 {
+  border: solid red 4px;
+}
+
+.cnt-help2 {
+  border: solid purple 4px;
+}
+
+.cnt-help3 {
+  border: solid orangered 4px;
+}
+
+/*? ---ESTILOS PAGINA PRINCIPAL---  */
+.options {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
